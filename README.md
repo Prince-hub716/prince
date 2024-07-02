@@ -1,3 +1,3 @@
 # prince
 first file
-auhthor-prince
+author-prince
